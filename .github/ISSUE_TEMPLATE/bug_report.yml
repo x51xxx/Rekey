@@ -1,0 +1,54 @@
+name: Bug report
+description: Something is broken, or Rekey corrected a word it should have left alone
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Rekey never transmits what you type, so a wrong correction is invisible to us unless you
+        describe it. The word itself is the most useful part of the report.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What did you type, what appeared, and what should have appeared?
+      placeholder: |
+        I typed "ішу" on the Ukrainian layout and it became "is".
+    validations:
+      required: true
+  - type: input
+    id: app
+    attributes:
+      label: Which app were you typing in
+      placeholder: PhpStorm, Telegram, Safari…
+    validations:
+      required: true
+  - type: input
+    id: layouts
+    attributes:
+      label: Which two layouts
+      placeholder: Ukrainian-PC and ABC
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Rekey version
+      description: Menu bar ▸ About
+      placeholder: 1.0.0-beta.5
+    validations:
+      required: true
+  - type: input
+    id: macos
+    attributes:
+      label: macOS version
+      placeholder: 15.2
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else
+      description: |
+        For freezes or missed keystrokes, Settings ▸ Diagnostics ▸ Export creates a bundle with
+        no text in it. Attaching it here helps a lot.

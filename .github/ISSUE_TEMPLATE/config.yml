@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Download Rekey
+    url: https://trishchuk.com/rekey/
+    about: The beta build, release notes and what Rekey does
+  - name: Privacy policy
+    url: https://trishchuk.com/rekey/privacy.html
+    about: Exactly what leaves your Mac, and what does not

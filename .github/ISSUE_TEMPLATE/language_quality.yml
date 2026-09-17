@@ -1,0 +1,26 @@
+name: Language not detected well
+description: A language is missing words, or scores badly against another
+labels: ["language"]
+body:
+  - type: input
+    id: language
+    attributes:
+      label: Language
+      placeholder: Ukrainian
+    validations:
+      required: true
+  - type: textarea
+    id: words
+    attributes:
+      label: Words that behave wrongly
+      description: One per line. Say whether each was wrongly corrected, or wrongly left alone.
+      placeholder: |
+        аудит — left alone when typed on the English layout
+        ішу — destroyed, became "is"
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Do these words come up in a particular kind of writing — slang, technical terms, inflected forms?

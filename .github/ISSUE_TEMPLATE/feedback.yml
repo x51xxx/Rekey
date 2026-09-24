@@ -28,7 +28,7 @@ body:
     id: version
     attributes:
       label: Rekey version
-      description: Menu bar ▸ About
+      description: Shown at the bottom of Rekey Settings (menu bar icon ▸ Settings…)
       placeholder: 1.0.0-beta.6
     validations:
       required: false

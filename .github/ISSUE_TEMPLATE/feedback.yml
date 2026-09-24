@@ -1,0 +1,34 @@
+name: Idea or feedback
+description: Something you would like Rekey to do, or something that feels awkward
+labels: ["feedback"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Beta feedback shapes what gets built next. If something is broken rather than awkward,
+        the Bug report template asks the questions that make it fixable.
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like, or what feels awkward
+      description: Describe the situation, not only the solution — what were you trying to do?
+      placeholder: |
+        I switch between three layouts and would like the double-Shift hotkey to skip one of them.
+    validations:
+      required: true
+  - type: textarea
+    id: usage
+    attributes:
+      label: How you use Rekey
+      description: Which languages you type in, and the apps you use it in most.
+      placeholder: Ukrainian + English, mostly Telegram and VS Code
+    validations:
+      required: false
+  - type: input
+    id: version
+    attributes:
+      label: Rekey version
+      description: Menu bar ▸ About
+      placeholder: 1.0.0-beta.6
+    validations:
+      required: false

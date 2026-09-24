@@ -1,5 +1,11 @@
-blank_issues_enabled: true
+blank_issues_enabled: false
 contact_links:
+  - name: How to report a problem
+    url: https://trishchuk.com/rekey/feedback/
+    about: What to include so a report can be fixed, and where each kind of report goes
+  - name: Report a security issue privately
+    url: https://github.com/x51xxx/Rekey/security/advisories/new
+    about: Please do not open a public issue for anything security-related
   - name: Download Rekey
     url: https://trishchuk.com/rekey/
     about: The beta build, release notes and what Rekey does

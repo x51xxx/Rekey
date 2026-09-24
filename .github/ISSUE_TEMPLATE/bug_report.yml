@@ -35,9 +35,19 @@ body:
     attributes:
       label: Rekey version
       description: Menu bar ▸ About
-      placeholder: 1.0.0-beta.5
+      placeholder: 1.0.0-beta.6
     validations:
       required: true
+  - type: dropdown
+    id: frequency
+    attributes:
+      label: How often does it happen
+      options:
+        - Every time
+        - Sometimes
+        - Once
+    validations:
+      required: false
   - type: input
     id: macos
     attributes:

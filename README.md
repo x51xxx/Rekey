@@ -68,13 +68,14 @@ was built for people who type in more than two languages.
 Your keystrokes are analysed on your Mac and never transmitted. Rekey has no account, no sync
 and no server-side text processing.
 
-Three things do leave the machine, and nothing else:
+Four things can leave the machine, and nothing else:
 
 1. **The update check** — the app asks the website whether a newer version exists.
 2. **One install ping** — a single message when you finish the welcome screen, recording which
    permissions you granted and whether you finished setup. It carries no identifier of any kind,
    not even a random one, so the installs cannot be told apart or counted twice.
-3. **Crash reports** — on beta builds only, and switchable in Settings.
+3. **Crash reports** — on beta builds, on by default and switchable in Settings.
+4. **Your email address** — only if you type one in during setup and tick a box.
 
 Full text: [Privacy Policy](https://trishchuk.com/rekey/privacy.html).
 
@@ -83,6 +84,11 @@ Full text: [Privacy Policy](https://trishchuk.com/rekey/privacy.html).
 Beta feedback belongs in [Issues](../../issues) — bug reports, false corrections, a language that
 scores badly. If Rekey mangled a word it should have left alone, that is the single most useful
 thing you can report: include the word, the two layouts and the app you were typing in.
+
+[How to report a problem](https://trishchuk.com/rekey/feedback/) explains what to include. New
+issues start from one of three templates: **Bug report**, **Language not detected well** and
+**Idea or feedback**. Security issues go through a private report instead — see
+[SECURITY.md](SECURITY.md).
 
 ## About this repository
 

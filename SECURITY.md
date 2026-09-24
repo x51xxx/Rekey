@@ -10,7 +10,7 @@ Please **do not open a public issue.** Report it privately instead:
 
 **[Report a vulnerability](https://github.com/x51xxx/Rekey/security/advisories/new)**
 
-Include the Rekey version (menu bar ▸ About), your macOS version, and the steps to reproduce.
+Include the Rekey version (shown at the bottom of Rekey Settings), your macOS version, and the steps to reproduce.
 Private reports are answered before any public issue.
 
 ## In scope

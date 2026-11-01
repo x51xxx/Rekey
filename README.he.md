@@ -7,7 +7,7 @@
 Rekey הוא אפליקציה חינמית לשורת התפריטים של macOS, ששמה לב כשמילה יצאה בפריסת מקלדת שגויה
 וכותבת אותה מחדש במקום — ואז מחליפה בשבילכם את הפריסה, כך שפשוט ממשיכים להקליד. זהו מחליף
 פריסת מקלדת אוטומטי ל-Mac וחלופה נייטיב ל-Punto Switcher ול-Caramba Switcher, שנוצר על ידי
-[Taras Trishchuk](https://trishchuk.com/) ומתפרסם ב-[trishchuk.com/rekey](https://trishchuk.com/rekey/he/).
+[Taras Trishchuk](https://trishchuk.com/) ומתפרסם ב-[trishchuk.com/rekey/he](https://trishchuk.com/rekey/he/).
 
 ![Rekey מתקן מילה שהוקלדה בפריסת מקלדת שגויה](assets/rekey-demo.gif)
 
@@ -138,10 +138,10 @@ Apple Silicon. Rekey עושה את אותה עבודה — מתקן טקסט ש�
 
 Rekey אינו קוד פתוח כרגע. המאגר הזה קיים בשביל הגרסאות (releases) ובשביל מעקב ה-Issues; קוד
 המקור נמצא במקום אחר. האפליקציה חינמית ומופצת כגרסה חתומה ועם notarization, ישירות
-מ-[trishchuk.com/rekey](https://trishchuk.com/rekey/he/).
+מ-[trishchuk.com/rekey/he](https://trishchuk.com/rekey/he/).
 
 יש אפליקציות אחרות בשם Rekey. האפליקציה הזו נוצרה על ידי Taras Trishchuk ומתפרסמת רק
-ב-[trishchuk.com/rekey](https://trishchuk.com/rekey/he/) ובמאגר הזה.
+ב-[trishchuk.com/rekey/he](https://trishchuk.com/rekey/he/) ובמאגר הזה.
 
 ---
 

@@ -7,7 +7,7 @@
 Rekey تطبيق مجاني لشريط القوائم في macOS، يلاحظ متى خرجت كلمة بتخطيط لوحة المفاتيح الخاطئ
 فيعيد كتابتها في مكانها، ثم يبدّل التخطيط نيابةً عنك، فتواصل الكتابة وحسب. إنه أداة تبديل
 تلقائي لتخطيط لوحة المفاتيح على Mac، وبديل أصلي لـ Punto Switcher وCaramba Switcher، من تطوير
-[Taras Trishchuk](https://trishchuk.com/)، ومنشور على [trishchuk.com/rekey](https://trishchuk.com/rekey/ar/).
+[Taras Trishchuk](https://trishchuk.com/)، ومنشور على [trishchuk.com/rekey/ar](https://trishchuk.com/rekey/ar/).
 
 ![Rekey يصحّح كلمة كُتبت بتخطيط لوحة المفاتيح الخاطئ](assets/rekey-demo.gif)
 
@@ -141,10 +141,10 @@ Apple Silicon. يؤدي Rekey المهمة نفسها، أي تصحيح النص
 
 Rekey ليس مفتوح المصدر حاليًا. يوجد هذا المستودع للإصدارات ولتتبّع المشكلات (Issues)، أما
 الشيفرة المصدرية فموجودة في مكان آخر. التطبيق مجاني، ويُوزَّع كإصدار موقَّع وموثَّق (notarized)
-مباشرةً من [trishchuk.com/rekey](https://trishchuk.com/rekey/ar/).
+مباشرةً من [trishchuk.com/rekey/ar](https://trishchuk.com/rekey/ar/).
 
 ثمة تطبيقات أخرى تحمل اسم Rekey. هذا التطبيق من تطوير Taras Trishchuk، ولا يُنشر إلا على
-[trishchuk.com/rekey](https://trishchuk.com/rekey/ar/) وفي هذا المستودع.
+[trishchuk.com/rekey/ar](https://trishchuk.com/rekey/ar/) وفي هذا المستودع.
 
 ---
 

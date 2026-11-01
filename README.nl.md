@@ -7,7 +7,7 @@ toetsenbordindeling is beland en het ter plekke herschrijft — en daarna de ind
 wisselt, zodat je gewoon doortypt. Het is een automatische wisselaar van toetsenbordindeling
 voor Mac en een native alternatief voor Punto Switcher en Caramba Switcher, gemaakt door
 [Taras Trishchuk](https://trishchuk.com/) en gepubliceerd op
-[trishchuk.com/rekey](https://trishchuk.com/rekey/nl/).
+[trishchuk.com/rekey/nl](https://trishchuk.com/rekey/nl/).
 
 ![Rekey corrigeert een woord dat in de verkeerde toetsenbordindeling is getypt](assets/rekey-demo.gif)
 
@@ -150,10 +150,10 @@ Beveiligingsproblemen meld je in plaats daarvan via een privémelding — zie
 Rekey is op dit moment geen open source. Deze repository bestaat voor releases en het bijhouden
 van issues; de broncode staat elders. De app is gratis en wordt als ondertekende en
 genotariseerde build rechtstreeks verspreid via
-[trishchuk.com/rekey](https://trishchuk.com/rekey/nl/).
+[trishchuk.com/rekey/nl](https://trishchuk.com/rekey/nl/).
 
 Er zijn andere apps met de naam Rekey. Deze wordt gemaakt door Taras Trishchuk en wordt alleen
-gepubliceerd op [trishchuk.com/rekey](https://trishchuk.com/rekey/nl/) en in deze repository.
+gepubliceerd op [trishchuk.com/rekey/nl](https://trishchuk.com/rekey/nl/) en in deze repository.
 
 ---
 

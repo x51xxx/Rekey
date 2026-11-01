@@ -4,9 +4,9 @@
 
 Rekey — безкоштовний застосунок для рядка меню macOS, який помічає, що слово вийшло не в тій
 розкладці, переписує його на місці й перемикає розкладку сам. Ви просто друкуєте далі.
-Це автоматичний перемикач розкладки для Mac і рідний аналог Punto Switcher та Caramba Switcher.
+Це автоматичний перемикач розкладки для Mac і нативний аналог Punto Switcher та Caramba Switcher.
 Автор — [Тарас Тріщук](https://trishchuk.com/), сайт застосунку —
-[trishchuk.com/rekey](https://trishchuk.com/rekey/uk/).
+[trishchuk.com/rekey/uk](https://trishchuk.com/rekey/uk/).
 
 ![Rekey виправляє слово, набране в неправильній розкладці](assets/rekey-demo.gif)
 
@@ -71,7 +71,7 @@ macOS, але орієнтований на англійську й російс
 
 Детальніше на сайті:
 
-- [Punto Switcher для Mac — рідний аналог для macOS](https://trishchuk.com/rekey/uk/punto-switcher-dlya-mac/)
+- [Punto Switcher для Mac — нативний аналог для macOS](https://trishchuk.com/rekey/uk/punto-switcher-dlya-mac/)
 - [Аналоги Punto Switcher для Mac — порівняння](https://trishchuk.com/rekey/uk/punto-switcher-analohy/)
 - [Аналоги Caramba Switcher для Mac — порівняння](https://trishchuk.com/rekey/uk/caramba-switcher-analohy/)
 - Порівняння віч-на-віч (англійською): [Rekey vs Caramba Switcher](https://trishchuk.com/rekey/compare/rekey-vs-caramba-switcher/) ·
@@ -83,7 +83,7 @@ macOS, але орієнтований на англійську й російс
 **Чи є Punto Switcher для Mac?**
 Актуального — немає. Стара збірка Punto Switcher для Mac більше не підтримується й ненадійно
 працює на Apple Silicon. Rekey робить те саме — виправляє текст, набраний не в тій розкладці, і
-перемикає розкладку — як рідний Swift-застосунок для сучасної macOS.
+перемикає розкладку — як нативний Swift-застосунок для сучасної macOS.
 
 **Rekey безкоштовний?**
 Так. Без акаунта й без підписки. Зараз це публічна бета.
@@ -137,7 +137,7 @@ Rekey поки що не має відкритого коду. Цей репоз
 [trishchuk.com/rekey](https://trishchuk.com/rekey/).
 
 Застосунків із назвою Rekey кілька. Цей створив Тарас Тріщук, і публікується він лише на
-[trishchuk.com/rekey](https://trishchuk.com/rekey/uk/) та в цьому репозиторії.
+[trishchuk.com/rekey/uk](https://trishchuk.com/rekey/uk/) та в цьому репозиторії.
 
 ---
 

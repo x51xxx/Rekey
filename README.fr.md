@@ -7,7 +7,7 @@ dans la mauvaise disposition de clavier et le réécrit sur place — puis chang
 pour vous, pour que vous continuiez simplement à taper. C’est un commutateur automatique de
 disposition de clavier pour Mac et une alternative native à Punto Switcher et Caramba Switcher,
 créée par [Taras Trishchuk](https://trishchuk.com/) et publiée sur
-[trishchuk.com/rekey](https://trishchuk.com/rekey/fr/).
+[trishchuk.com/rekey/fr](https://trishchuk.com/rekey/fr/).
 
 ![Rekey corrige un mot tapé dans la mauvaise disposition de clavier](assets/rekey-demo.gif)
 
@@ -153,10 +153,10 @@ problèmes de sécurité passent plutôt par un signalement privé — voir [SEC
 
 Rekey n’est pas open source aujourd’hui. Ce dépôt sert aux versions publiées et au suivi des
 issues ; le code source se trouve ailleurs. L’app est gratuite, distribuée sous forme de build
-signé et notarié directement depuis [trishchuk.com/rekey](https://trishchuk.com/rekey/fr/).
+signé et notarié directement depuis [trishchuk.com/rekey/fr](https://trishchuk.com/rekey/fr/).
 
 D’autres apps portent le nom Rekey. Celle-ci est créée par Taras Trishchuk et n’est publiée que
-sur [trishchuk.com/rekey](https://trishchuk.com/rekey/fr/) et dans ce dépôt.
+sur [trishchuk.com/rekey/fr](https://trishchuk.com/rekey/fr/) et dans ce dépôt.
 
 ---
 

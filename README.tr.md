@@ -6,7 +6,7 @@ Rekey, bir kelimenin yanlış klavye düzeninde çıktığını fark edip onu ye
 ardından düzeni sizin yerinize değiştiren ücretsiz bir macOS menü çubuğu uygulamasıdır; siz sadece
 yazmaya devam edersiniz. Mac için otomatik bir klavye düzeni değiştiricidir ve Punto Switcher ile
 Caramba Switcher'a native bir alternatiftir. [Taras Trishchuk](https://trishchuk.com/) tarafından
-geliştirildi ve [trishchuk.com/rekey](https://trishchuk.com/rekey/tr/) adresinde yayımlanıyor.
+geliştirildi ve [trishchuk.com/rekey/tr](https://trishchuk.com/rekey/tr/) adresinde yayımlanıyor.
 
 ![Yanlış klavye düzeninde yazılan bir kelimeyi düzelten Rekey](assets/rekey-demo.gif)
 
@@ -144,10 +144,10 @@ bildirim). Güvenlik sorunları ise özel bir raporla iletilir — bkz. [SECURIT
 
 Rekey bugün açık kaynak değildir. Bu depo sürümler ve sorun takibi için var; kaynak kod başka bir
 yerde duruyor. Uygulama ücretsizdir ve imzalı, notarize edilmiş bir sürüm olarak doğrudan
-[trishchuk.com/rekey](https://trishchuk.com/rekey/tr/) adresinden dağıtılır.
+[trishchuk.com/rekey/tr](https://trishchuk.com/rekey/tr/) adresinden dağıtılır.
 
 Rekey adını taşıyan başka uygulamalar da var. Bu uygulamayı Taras Trishchuk geliştiriyor ve
-yalnızca [trishchuk.com/rekey](https://trishchuk.com/rekey/tr/) adresinde ve bu depoda
+yalnızca [trishchuk.com/rekey/tr](https://trishchuk.com/rekey/tr/) adresinde ve bu depoda
 yayımlanıyor.
 
 ---

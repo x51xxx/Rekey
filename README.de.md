@@ -7,7 +7,7 @@ Tastaturlayout gelandet ist, schreibt es an Ort und Stelle neu — und wechselt 
 für Sie, sodass Sie einfach weitertippen. Rekey ist ein automatischer Tastaturlayout-Umschalter
 für den Mac und eine native Alternative zu Punto Switcher und Caramba Switcher, entwickelt von
 [Taras Trishchuk](https://trishchuk.com/) und veröffentlicht auf
-[trishchuk.com/rekey](https://trishchuk.com/rekey/de/).
+[trishchuk.com/rekey/de](https://trishchuk.com/rekey/de/).
 
 ![Rekey korrigiert ein Wort, das im falschen Tastaturlayout getippt wurde](assets/rekey-demo.gif)
 
@@ -148,10 +148,10 @@ Sicherheitsprobleme melden Sie stattdessen vertraulich — siehe [SECURITY.md](S
 
 Rekey ist derzeit nicht Open Source. Dieses Repository dient den Releases und der
 Fehlerverfolgung; der Quellcode liegt woanders. Die App ist kostenlos und wird als signierter und
-notarisierter Build direkt über [trishchuk.com/rekey](https://trishchuk.com/rekey/de/) verteilt.
+notarisierter Build direkt über [trishchuk.com/rekey/de](https://trishchuk.com/rekey/de/) verteilt.
 
 Es gibt andere Apps mit dem Namen Rekey. Diese hier stammt von Taras Trishchuk und wird nur auf
-[trishchuk.com/rekey](https://trishchuk.com/rekey/de/) und in diesem Repository veröffentlicht.
+[trishchuk.com/rekey/de](https://trishchuk.com/rekey/de/) und in diesem Repository veröffentlicht.
 
 ---
 

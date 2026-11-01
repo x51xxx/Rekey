@@ -7,7 +7,7 @@
 διάταξη για εσάς, ώστε απλώς να συνεχίζετε να γράφετε. Είναι αυτόματος εναλλάκτης διάταξης
 πληκτρολογίου για Mac και native εναλλακτική του Punto Switcher και του Caramba Switcher,
 φτιαγμένος από τον [Taras Trishchuk](https://trishchuk.com/) και δημοσιευμένος στο
-[trishchuk.com/rekey](https://trishchuk.com/rekey/el/).
+[trishchuk.com/rekey/el](https://trishchuk.com/rekey/el/).
 
 ![Το Rekey διορθώνει μια λέξη γραμμένη σε λάθος διάταξη πληκτρολογίου](assets/rekey-demo.gif)
 
@@ -148,10 +148,10 @@ Windows από τη Yandex· η παλιά έκδοσή του για Mac δεν
 Το Rekey δεν είναι σήμερα ανοιχτού κώδικα. Αυτό το αποθετήριο υπάρχει για τις εκδόσεις και για την
 παρακολούθηση των issues· ο πηγαίος κώδικας βρίσκεται αλλού. Η εφαρμογή είναι δωρεάν και
 διανέμεται ως υπογεγραμμένο και notarized build απευθείας από το
-[trishchuk.com/rekey](https://trishchuk.com/rekey/el/).
+[trishchuk.com/rekey/el](https://trishchuk.com/rekey/el/).
 
 Υπάρχουν κι άλλες εφαρμογές με το όνομα Rekey. Αυτή είναι φτιαγμένη από τον Taras Trishchuk και
-δημοσιεύεται μόνο στο [trishchuk.com/rekey](https://trishchuk.com/rekey/el/) και σε αυτό το
+δημοσιεύεται μόνο στο [trishchuk.com/rekey/el](https://trishchuk.com/rekey/el/) και σε αυτό το
 αποθετήριο.
 
 ---

@@ -6,7 +6,7 @@ Rekey to darmowa aplikacja na pasek menu macOS, która zauważa, że słowo wysz
 klawiatury, i przepisuje je na miejscu — a potem sama przełącza układ, więc po prostu piszesz
 dalej. To automatyczny przełącznik układu klawiatury dla Maca i natywna alternatywa dla Punto
 Switcher i Caramba Switcher. Autor: [Taras Trishchuk](https://trishchuk.com/), strona aplikacji:
-[trishchuk.com/rekey](https://trishchuk.com/rekey/pl/).
+[trishchuk.com/rekey/pl](https://trishchuk.com/rekey/pl/).
 
 ![Rekey poprawia słowo wpisane w złym układzie klawiatury](assets/rekey-demo.gif)
 
@@ -144,10 +144,10 @@ Problemy z bezpieczeństwem zgłaszaj prywatnie — zobacz [SECURITY.md](SECURIT
 
 Rekey nie jest dziś open source. To repozytorium służy do wydań i śledzenia zgłoszeń; kod
 źródłowy jest gdzie indziej. Aplikacja jest darmowa i dystrybuowana jako podpisana i
-notaryzowana wersja bezpośrednio z [trishchuk.com/rekey](https://trishchuk.com/rekey/pl/).
+notaryzowana wersja bezpośrednio z [trishchuk.com/rekey/pl](https://trishchuk.com/rekey/pl/).
 
 Inne aplikacje też noszą nazwę Rekey. Tę tworzy Taras Trishchuk i jest publikowana wyłącznie na
-[trishchuk.com/rekey](https://trishchuk.com/rekey/pl/) i w tym repozytorium.
+[trishchuk.com/rekey/pl](https://trishchuk.com/rekey/pl/) i w tym repozytorium.
 
 ---
 

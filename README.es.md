@@ -7,7 +7,7 @@ con la distribución de teclado equivocada y la reescribe en el sitio; después 
 distribución por ti, así que solo tienes que seguir escribiendo. Es un cambiador automático de
 distribución de teclado para Mac y una alternativa nativa a Punto Switcher y Caramba Switcher,
 creada por [Taras Trishchuk](https://trishchuk.com/) y publicada en
-[trishchuk.com/rekey](https://trishchuk.com/rekey/es/).
+[trishchuk.com/rekey/es](https://trishchuk.com/rekey/es/).
 
 ![Rekey corrige una palabra escrita con la distribución equivocada](assets/rekey-demo.gif)
 
@@ -152,10 +152,10 @@ comentario). Los problemas de seguridad van por un informe privado; consulta
 Rekey no es de código abierto por ahora. Este repositorio existe para las versiones publicadas y
 el seguimiento de incidencias; el código fuente está en otro sitio. La app es gratuita y se
 distribuye como compilación firmada y notarizada directamente desde
-[trishchuk.com/rekey](https://trishchuk.com/rekey/es/).
+[trishchuk.com/rekey/es](https://trishchuk.com/rekey/es/).
 
 Hay otras apps que se llaman Rekey. Esta la hace Taras Trishchuk y solo se publica en
-[trishchuk.com/rekey](https://trishchuk.com/rekey/es/) y en este repositorio.
+[trishchuk.com/rekey/es](https://trishchuk.com/rekey/es/) y en este repositorio.
 
 ---
 

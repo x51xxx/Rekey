@@ -125,7 +125,7 @@ macOS, але орієнтований на англійську й російс
 погано. Якщо Rekey зіпсував слово, якого не мав чіпати, це найкорисніше, що можна повідомити:
 напишіть саме слово, обидві розкладки й застосунок, у якому друкували.
 
-[Як повідомити про проблему](https://trishchuk.com/rekey/feedback/) — що варто додати до звіту.
+[Як повідомити про проблему](https://trishchuk.com/rekey/uk/feedback/) — що варто додати до звіту.
 Нове issue починається з одного з трьох шаблонів: **Bug report** (помилка), **Language not
 detected well** (мова розпізнається погано) і **Idea or feedback** (ідея чи відгук). Про
 вразливості повідомляйте приватно — див. [SECURITY.md](SECURITY.md).
@@ -141,4 +141,6 @@ Rekey поки що не має відкритого коду. Цей репоз
 
 ---
 
-[Сайт](https://trishchuk.com/rekey/) · [Приватність](https://trishchuk.com/rekey/privacy.html) · [English](README.md)
+[Сайт](https://trishchuk.com/rekey/uk/) · [Приватність (англійською)](https://trishchuk.com/rekey/privacy.html)
+
+[English](README.md) · [Українська](README.uk.md) · [Deutsch](README.de.md) · [Polski](README.pl.md) · [Español](README.es.md) · [Français](README.fr.md) · [Nederlands](README.nl.md) · [Ελληνικά](README.el.md) · [Türkçe](README.tr.md) · [עברית](README.he.md) · [العربية](README.ar.md)

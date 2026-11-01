@@ -148,4 +148,6 @@ Other apps share the name Rekey. This one is made by Taras Trishchuk and is publ
 
 ---
 
-[Website](https://trishchuk.com/rekey/) · [Privacy](https://trishchuk.com/rekey/privacy.html) · [Українською](README.uk.md)
+[Website](https://trishchuk.com/rekey/) · [Privacy](https://trishchuk.com/rekey/privacy.html)
+
+[English](README.md) · [Українська](README.uk.md) · [Deutsch](README.de.md) · [Polski](README.pl.md) · [Español](README.es.md) · [Français](README.fr.md) · [Nederlands](README.nl.md) · [Ελληνικά](README.el.md) · [Türkçe](README.tr.md) · [עברית](README.he.md) · [العربية](README.ar.md)

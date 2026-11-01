@@ -2,8 +2,11 @@
 
 **Більше ніколи не друкуйте не тією мовою.**
 
-Rekey — застосунок для рядка меню macOS, який помічає, що слово вийшло не в тій розкладці,
-переписує його на місці й перемикає розкладку сам. Ви просто друкуєте далі.
+Rekey — безкоштовний застосунок для рядка меню macOS, який помічає, що слово вийшло не в тій
+розкладці, переписує його на місці й перемикає розкладку сам. Ви просто друкуєте далі.
+Це автоматичний перемикач розкладки для Mac і нативний аналог Punto Switcher та Caramba Switcher.
+Автор — [Тарас Тріщук](https://trishchuk.com/), сайт застосунку —
+[trishchuk.com/rekey/uk](https://trishchuk.com/rekey/uk/).
 
 ![Rekey виправляє слово, набране в неправильній розкладці](assets/rekey-demo.gif)
 
@@ -59,6 +62,47 @@ macOS 13 Ventura або новіша · одна універсальна збі
 
 Порівняння на основі загальнодоступної інформації, червень 2026.
 
+## Аналог Punto Switcher і Caramba Switcher для Mac
+
+Шукаєте **аналог Punto Switcher для Mac**? Rekey саме це — тільки створений для тих, хто друкує
+більш ніж двома мовами. Punto Switcher — програма Яндекса для Windows; її стара версія для Mac
+більше не підтримується й ненадійно працює на Apple Silicon. Caramba Switcher працює на сучасній
+macOS, але орієнтований на англійську й російську та продається за підпискою.
+
+Детальніше на сайті:
+
+- [Punto Switcher для Mac — нативний аналог для macOS](https://trishchuk.com/rekey/uk/punto-switcher-dlya-mac/)
+- [Аналоги Punto Switcher для Mac — порівняння](https://trishchuk.com/rekey/uk/punto-switcher-analohy/)
+- [Аналоги Caramba Switcher для Mac — порівняння](https://trishchuk.com/rekey/uk/caramba-switcher-analohy/)
+- Порівняння віч-на-віч (англійською): [Rekey vs Caramba Switcher](https://trishchuk.com/rekey/compare/rekey-vs-caramba-switcher/) ·
+  [Rekey vs Boomkey](https://trishchuk.com/rekey/compare/rekey-vs-boomkey/) ·
+  [Rekey vs Keyboop](https://trishchuk.com/rekey/compare/rekey-vs-keyboop/)
+
+## Часті запитання
+
+**Чи є Punto Switcher для Mac?**
+Актуального — немає. Стара збірка Punto Switcher для Mac більше не підтримується й ненадійно
+працює на Apple Silicon. Rekey робить те саме — виправляє текст, набраний не в тій розкладці, і
+перемикає розкладку — як нативний Swift-застосунок для сучасної macOS.
+
+**Rekey безкоштовний?**
+Так. Без акаунта й без підписки. Зараз це публічна бета.
+
+**Чи працює на Apple Silicon?**
+Так. Одна універсальна збірка для Mac на Apple Silicon та Intel, macOS 13 Ventura або новіша.
+
+**Які мови підтримуються?**
+34 мови, серед них українська, англійська, німецька, французька, іспанська, польська, чеська,
+грецька, іврит та арабська. Працює з будь-якою парою чи набором установлених розкладок, а не лише
+з англійською й російською.
+
+**Чи надсилає він кудись те, що я друкую?**
+Ні. Кожне слово аналізується на вашому Mac. Короткий перелік того, що все ж залишає машину, — у
+розділі [Приватність](#приватність).
+
+**Чи можна перемикати розкладку вручну?**
+Так. Типово подвійний Shift, або Control, Option, Command, ⌃Space, ⌘Space чи ⌥⌘Space на вибір.
+
 ## Приватність
 
 Натискання клавіш аналізуються на вашому Mac і нікуди не передаються. У Rekey немає ні акаунта,
@@ -81,7 +125,7 @@ macOS 13 Ventura або новіша · одна універсальна збі
 погано. Якщо Rekey зіпсував слово, якого не мав чіпати, це найкорисніше, що можна повідомити:
 напишіть саме слово, обидві розкладки й застосунок, у якому друкували.
 
-[Як повідомити про проблему](https://trishchuk.com/rekey/feedback/) — що варто додати до звіту.
+[Як повідомити про проблему](https://trishchuk.com/rekey/uk/feedback/) — що варто додати до звіту.
 Нове issue починається з одного з трьох шаблонів: **Bug report** (помилка), **Language not
 detected well** (мова розпізнається погано) і **Idea or feedback** (ідея чи відгук). Про
 вразливості повідомляйте приватно — див. [SECURITY.md](SECURITY.md).
@@ -92,6 +136,11 @@ Rekey поки що не має відкритого коду. Цей репоз
 окремо. Застосунок безкоштовний, підписаний і нотаризований, і роздається напряму з
 [trishchuk.com/rekey](https://trishchuk.com/rekey/).
 
+Застосунків із назвою Rekey кілька. Цей створив Тарас Тріщук, і публікується він лише на
+[trishchuk.com/rekey/uk](https://trishchuk.com/rekey/uk/) та в цьому репозиторії.
+
 ---
 
-[Сайт](https://trishchuk.com/rekey/) · [Приватність](https://trishchuk.com/rekey/privacy.html) · [English](README.md)
+[Сайт](https://trishchuk.com/rekey/uk/) · [Приватність (англійською)](https://trishchuk.com/rekey/privacy.html)
+
+[English](README.md) · [Українська](README.uk.md) · [Deutsch](README.de.md) · [Polski](README.pl.md) · [Español](README.es.md) · [Français](README.fr.md) · [Nederlands](README.nl.md) · [Ελληνικά](README.el.md) · [Türkçe](README.tr.md) · [עברית](README.he.md) · [العربية](README.ar.md)

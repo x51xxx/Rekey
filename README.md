@@ -2,8 +2,11 @@
 
 **Never type in the wrong language again.**
 
-Rekey is a macOS menu-bar app that notices when a word came out in the wrong keyboard
+Rekey is a free macOS menu-bar app that notices when a word came out in the wrong keyboard
 layout and rewrites it in place — then switches the layout for you, so you just keep typing.
+It is an automatic keyboard layout switcher for Mac and a native alternative to Punto Switcher
+and Caramba Switcher, made by [Taras Trishchuk](https://trishchuk.com/) and published at
+[trishchuk.com/rekey](https://trishchuk.com/rekey/).
 
 ![Rekey correcting a word typed in the wrong keyboard layout](assets/rekey-demo.gif)
 
@@ -60,8 +63,52 @@ word list someone typed out by hand.
 
 Comparison based on publicly available information, June 2026.
 
+## Punto Switcher and Caramba Switcher alternative for Mac
+
 Looking for a **Punto Switcher alternative for Mac**? That is exactly what this is — except it
-was built for people who type in more than two languages.
+was built for people who type in more than two languages. Punto Switcher is a Windows tool from
+Yandex; its old Mac version is no longer maintained and does not run reliably on Apple Silicon.
+Caramba Switcher works on modern macOS but focuses on English and Russian and is sold by
+subscription.
+
+Longer write-ups on the website:
+
+- [Punto Switcher for Mac — the native macOS alternative](https://trishchuk.com/rekey/punto-switcher-for-mac/)
+- [Best Punto Switcher alternatives for Mac, compared](https://trishchuk.com/rekey/alternatives/punto-switcher/)
+- [Best Caramba Switcher alternatives for Mac, compared](https://trishchuk.com/rekey/alternatives/caramba-switcher/)
+- Head to head: [Rekey vs Caramba Switcher](https://trishchuk.com/rekey/compare/rekey-vs-caramba-switcher/) ·
+  [Rekey vs Boomkey](https://trishchuk.com/rekey/compare/rekey-vs-boomkey/) ·
+  [Rekey vs Keyboop](https://trishchuk.com/rekey/compare/rekey-vs-keyboop/) ·
+  [Rekey vs MLSwitcher](https://trishchuk.com/rekey/compare/rekey-vs-mlswitcher/) ·
+  [Rekey vs Flipio](https://trishchuk.com/rekey/compare/rekey-vs-flipio/)
+- Coming from Windows: [Mahou alternative](https://trishchuk.com/rekey/alternatives/mahou/) ·
+  [EveryLang alternative](https://trishchuk.com/rekey/alternatives/everylang/)
+
+## FAQ
+
+**Is there a Punto Switcher for Mac?**
+Not a current one. The old Mac build of Punto Switcher is no longer maintained and does not run
+reliably on Apple Silicon. Rekey does the same job — fixing text typed in the wrong layout and
+switching the layout — as a native Swift app for current macOS.
+
+**Is Rekey free?**
+Yes. It is free, with no account and no subscription. It is currently a public beta.
+
+**Does it work on Apple Silicon?**
+Yes. One universal build runs on Apple Silicon and Intel Macs with macOS 13 Ventura or later.
+
+**Which languages does it support?**
+34 languages, including Ukrainian, English, German, French, Spanish, Polish, Czech, Greek,
+Hebrew and Arabic. It works with any pair or set of layouts you have installed, not only
+English and Russian.
+
+**Does it send what I type anywhere?**
+No. Every word is analysed on your Mac. See [Privacy](#privacy) for the short list of what does
+leave the machine.
+
+**Can I still switch layouts by hand?**
+Yes. Double-tap Shift by default, or pick Control, Option, Command, ⌃Space, ⌘Space or ⌥⌘Space
+instead.
 
 ## Privacy
 
@@ -95,6 +142,9 @@ issues start from one of three templates: **Bug report**, **Language not detecte
 Rekey is not open source today. This repository exists for releases and for issue tracking; the
 source lives elsewhere. The app is free, distributed as a signed and notarized build directly
 from [trishchuk.com/rekey](https://trishchuk.com/rekey/).
+
+Other apps share the name Rekey. This one is made by Taras Trishchuk and is published only at
+[trishchuk.com/rekey](https://trishchuk.com/rekey/) and in this repository.
 
 ---
 
